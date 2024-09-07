@@ -14,7 +14,6 @@ Sinta-se à vontade para contribuir com este projeto. Se você encontrar algum p
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Como Usar](#como-usar)
-- [Contribuições](#contribuições)
 - [Licença](#licença)
 
 ## Introdução
